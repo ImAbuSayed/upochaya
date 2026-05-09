@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/upochaya/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Upochaya](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/upochaya/) |
+| **Get License** | [Music Rights & Licensing for Upochaya](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/upochaya/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0f2324e9f12f04bdaa74f8890d5c871c4c32c75a100ad535b2516bec1ab39a47` |
 | **Timestamp** | May 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
